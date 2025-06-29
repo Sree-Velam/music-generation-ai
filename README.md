@@ -1,7 +1,5 @@
 # 🎶 Music Generation with AI
 
-This project is part of my internship at [CodeAlpha](https://www.linkedin.com/company/codealpha/) – Task 3: Music Generation using Deep Learning.
-
 The model is trained on MIDI files and learns musical patterns to generate new compositions using LSTM (Recurrent Neural Networks). The generated output is saved as a new `.mid` file you can listen to!
 
 ---
